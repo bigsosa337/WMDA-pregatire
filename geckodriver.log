@@ -1,0 +1,217 @@
+1717622551546	geckodriver	INFO	Listening on 127.0.0.1:54774
+1717622554591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileKawGQO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717622554824	Marionette	INFO	Marionette enabled
+1717622554873	Marionette	INFO	Listening on port 54784
+WebDriver BiDi listening on ws://127.0.0.1:54775
+Read port: 54784
+1717622555020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54775/devtools/browser/4eb8f0ab-74fa-49b0-9e2b-e47fcf3c9b5d
+JavaScript warning: https://www.metacritic.com/a/neutron/a44c572.modern.js, line 2: Script terminated by timeout at:
+h@https://www.metacritic.com/a/neutron/a44c572.modern.js:2:406573
+
+1717622570010	Marionette	INFO	Stopped listening on port 54784
+Dynamically enable window occlusion 1
+1717622764370	geckodriver	INFO	Listening on 127.0.0.1:60626
+1717622767402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileftHrQY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717622767629	Marionette	INFO	Marionette enabled
+1717622767685	Marionette	INFO	Listening on port 60634
+WebDriver BiDi listening on ws://127.0.0.1:60627
+Read port: 60634
+1717622767827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60627/devtools/browser/853b6b2d-bb1c-4cff-bc0e-4c55efc5adab
+1717622798216	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.metacritic.com/a/neutron/a44c572.modern.js, line 2: Script terminated by timeout at:
+h@https://www.metacritic.com/a/neutron/a44c572.modern.js:2:406573
+
+1717624080443	Marionette	INFO	Stopped listening on port 60634
+Dynamically enable window occlusion 1
+"C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileP7gNmB"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717622992554	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1717622992602	Marionette	INFO	Listening on port 60720
+WebDriver BiDi listening on ws://127.0.0.1:60711
+Read port: 60720
+1717622992724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60711/devtools/browser/6bf43cbf-2da9-479d-9a11-128896180ee3
+1717623001217	Marionette	INFO	Stopped listening on port 60720
+JavaScript warning: https://www.metacritic.com/a/neutron/a44c572.modern.js, line 2: Script terminated by timeout at:
+h@https://www.metacritic.com/a/neutron/a44c572.modern.js:2:406573
+
+Dynamically enable window occlusion 1
+1717623030164	geckodriver	INFO	Listening on 127.0.0.1:60777
+1717623033223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... 8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofilemjVM6r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717623033474	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1717623033528	Marionette	INFO	Listening on port 60786
+WebDriver BiDi listening on ws://127.0.0.1:60778
+Read port: 60786
+1717623033686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60778/devtools/browser/cae17d9c-c3d7-42e5-b1d5-40761a1c8ce4
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1717623044290	Marionette	INFO	Stopped listening on port 60786
+JavaScript warning: https://www.metacritic.com/a/neutron/a44c572.modern.js, line 2: Script terminated by timeout at:
+h@https://www.metacritic.com/a/neutron/a44c572.modern.js:2:406681
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1717623161162	geckodriver	INFO	Listening on 127.0.0.1:60872
+1717623164224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileVs49Q0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717623164468	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1717623164524	Marionette	INFO	Listening on port 60880
+Read port: 60880
+WebDriver BiDi listening on ws://127.0.0.1:60873
+1717623164588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60873/devtools/browser/23c81a12-5e7d-4d26-8004-feddd0c9f09a
+1717623172475	Marionette	INFO	Stopped listening on port 60880
+Dynamically enable window occlusion 1
+1717623384459	geckodriver	INFO	Listening on 127.0.0.1:60961
+1717623387522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileL7L8P7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717623387800	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1717623387876	Marionette	INFO	Listening on port 60970
+WebDriver BiDi listening on ws://127.0.0.1:60962
+Read port: 60970
+1717623388060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60962/devtools/browser/7bdcbfd5-6401-4353-a812-c3e4e64e9584
+1717623395703	Marionette	INFO	Stopped listening on port 60970
+JavaScript warning: https://www.metacritic.com/a/neutron/a44c572.modern.js, line 2: Script terminated by timeout at:
+h@https://www.metacritic.com/a/neutron/a44c572.modern.js:2:406573
+
+Dynamically enable window occlusion 1
+1717623410538	geckodriver	INFO	Listening on 127.0.0.1:61027
+1717623413620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... 8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileClH0XQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717623413883	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1717623413942	Marionette	INFO	Listening on port 61036
+WebDriver BiDi listening on ws://127.0.0.1:61028
+Read port: 61036
+1717623414094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61028/devtools/browser/b6e31ee2-a7db-4ef8-aaed-aa5a55456511
+1717623422183	Marionette	INFO	Stopped listening on port 61036
+JavaScript warning: https://script.wikia.nocookie.net/fandom-ae-assets/platforms/v146.76.0/metacritic-neutron/main.bundle.js, line 2: Script terminated by timeout at:
+fireAggregatedQueue@https://script.wikia.nocookie.net/fandom-ae-assets/platforms/v146.76.0/metacritic-neutron/main.bundle.js:2:185588
+start/e<@https://script.wikia.nocookie.net/fandom-ae-assets/platforms/v146.76.0/metacritic-neutron/main.bundle.js:2:185994
+
+Dynamically enable window occlusion 1
+1717623614371	geckodriver	INFO	Listening on 127.0.0.1:61229
+1717623617410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofilew7zSDh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717623617643	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1717623617693	Marionette	INFO	Listening on port 61238
+WebDriver BiDi listening on ws://127.0.0.1:61230
+Read port: 61238
+1717623618063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61230/devtools/browser/ce9ad2c1-300b-46f4-9ac3-3f6c141b4ed1
+1717623631464	Marionette	INFO	Stopped listening on port 61238
+Dynamically enable window occlusion 1
+1717623745599	geckodriver	INFO	Listening on 127.0.0.1:61307
+1717623748655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... 8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileBSIf7p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717623748905	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1717623748967	Marionette	INFO	Listening on port 61317
+WebDriver BiDi listening on ws://127.0.0.1:61308
+Read port: 61317
+1717623749148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61308/devtools/browser/ebf5e41b-2c5f-4a89-8df5-e73bc4115bca
+1717623756601	Marionette	INFO	Stopped listening on port 61317
+JavaScript warning: https://static.wikia.nocookie.net/silversurfer/video/prod/standalone-dist/standAlone_RV_VideoPlayer.js, line 21: Script terminated by timeout at:
+od@https://static.wikia.nocookie.net/silversurfer/video/prod/standalone-dist/standAlone_RV_VideoPlayer.js:21:131915
+ld@https://static.wikia.nocookie.net/silversurfer/video/prod/standalone-dist/standAlone_RV_VideoPlayer.js:21:131930
+
+Dynamically enable window occlusion 1
+1717623786980	geckodriver	INFO	Listening on 127.0.0.1:61380
+1717623790022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileP5k8qm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717623790254	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1717623790305	Marionette	INFO	Listening on port 61388
+WebDriver BiDi listening on ws://127.0.0.1:61381
+Read port: 61388
+1717623790441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61381/devtools/browser/fd0091bb-3be2-4363-8289-e94b3528a6c5
+1717623798291	Marionette	INFO	Stopped listening on port 61388
+Dynamically enable window occlusion 1
+1717623817574	geckodriver	INFO	Listening on 127.0.0.1:61443
+1717623820617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileQYKxOG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717623820854	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1717623820911	Marionette	INFO	Listening on port 61451
+WebDriver BiDi listening on ws://127.0.0.1:61444
+Read port: 61451
+1717623821028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61444/devtools/browser/37a64c71-82e9-46f8-a0ca-6959431d5d96
+1717623829027	Marionette	INFO	Stopped listening on port 61451
+JavaScript warning: https://www.metacritic.com/a/neutron/a44c572.modern.js, line 2: Script terminated by timeout at:
+h@https://www.metacritic.com/a/neutron/a44c572.modern.js:2:406681
+
+Dynamically enable window occlusion 1
+1717623903164	geckodriver	INFO	Listening on 127.0.0.1:61516
+1717623906233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofilenWeBaW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717623906491	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1717623906556	Marionette	INFO	Listening on port 61524
+WebDriver BiDi listening on ws://127.0.0.1:61517
+Read port: 61524
+1717623906716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61517/devtools/browser/c2c464d7-b620-45a6-92d1-db581a2913e2
+1717623914573	Marionette	INFO	Stopped listening on port 61524
+JavaScript warning: https://www.metacritic.com/a/neutron/a44c572.modern.js, line 2: Script terminated by timeout at:
+h@https://www.metacritic.com/a/neutron/a44c572.modern.js:2:406573
+
+Dynamically enable window occlusion 1
+1717623973193	geckodriver	INFO	Listening on 127.0.0.1:61581
+1717623976228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "- ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofile6sgsub"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717623976463	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1717623976523	Marionette	INFO	Listening on port 61589
+WebDriver BiDi listening on ws://127.0.0.1:61582
+Read port: 61589
+1717623976646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61582/devtools/browser/6bd9ada6-80ac-407c-b50d-1d38aa7bb3bf
+1717623984161	Marionette	INFO	Stopped listening on port 61589
+JavaScript warning: https://www.metacritic.com/a/neutron/a44c572.modern.js, line 2: Script terminated by timeout at:
+h@https://www.metacritic.com/a/neutron/a44c572.modern.js:2:406573
+
+Dynamically enable window occlusion 1
